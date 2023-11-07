@@ -1,4 +1,4 @@
-How to run project locally:
+How to run the project locally:
 
 1. Download the project code
 
